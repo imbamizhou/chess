@@ -1,0 +1,14 @@
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\Interop.WMPLib.dll
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\AxInterop.WMPLib.dll
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\智能象棋游戏.csproj.ResolveComReference.cache
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\bin\Release\双人象棋游戏.exe
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\bin\Release\Interop.WMPLib.dll
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\bin\Release\AxInterop.WMPLib.dll
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\ResolveAssemblyReference.cache
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\智能象棋游戏.Form1.resources
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\智能象棋游戏.Form2.resources
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\智能象棋游戏.Form3.resources
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\智能象棋游戏.Form4.resources
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\双人象棋游戏.Properties.Resources.resources
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\智能象棋游戏.csproj.GenerateResource.Cache
+E:\项目资料\智能象棋游戏\智能象棋游戏(V2)\obj\Release\双人象棋游戏.exe
